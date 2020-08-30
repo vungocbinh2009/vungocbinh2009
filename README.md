@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Android programmer and a teacher. So the repositories contain some small products, but useful for the current job.
+I am an Android programmer and a teacher. So the repositories contain some small library, but useful for the current job.
 
 <!--
 **vungocbinh2009/vungocbinh2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
